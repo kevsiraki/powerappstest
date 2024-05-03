@@ -43,4 +43,4 @@ Introduce a sync notification popup to provide users with real-time feedback on 
 4\. Notification Clutter Improvements
 -------------------------------------
 
-Optimize notification handling to reduce clutter and improve the overall notification experience. This may involve grouping notifications, prioritizing critical alerts, and providing options for customizing notification settings.s
+Optimize notification handling to reduce clutter and improve the overall notification experience. This may involve grouping notifications, prioritizing critical alerts, and providing options for customizing notification settings.
