@@ -45,6 +45,9 @@ Introduce a sync notification popup to provide users with real-time feedback on 
 
 Optimize notification handling to reduce clutter and improve the overall notification experience. This may involve grouping notifications, prioritizing critical alerts, and providing options for customizing notification settings.
 
+App/Workflow Screenshots
+=============================
+
 ![image](https://github.com/kevsiraki/powerappstest/assets/17421377/3f4ede70-ffa7-42a6-9ba0-6003a17bb33f)
 ![image](https://github.com/kevsiraki/powerappstest/assets/17421377/76fb577d-8071-4ad4-9bec-9582d1257569)
 ![image](https://github.com/kevsiraki/powerappstest/assets/17421377/9711b6e4-e735-485f-a192-b36706901a1d)
