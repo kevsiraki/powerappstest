@@ -19,3 +19,28 @@ Technologies Used
 -   Power Automate: Integrates with Power Automate for workflow automation and seamless data synchronization.
 -   Canvas: Utilizes PowerApps Canvas for designing a visually appealing and user-friendly interface.
 -   PHP/Bash: Incorporates custom PHP scripts for API integration and Bash scripts for automation tasks.
+
+Plans for Future Improvements
+=============================
+
+We are committed to continuously enhancing the Contact Management System to provide an even better user experience. Below are some planned improvements for future releases:
+
+1\. Status Update Rate Limiting
+-------------------------------
+
+Implement rate limiting for status updates to prevent excessive notifications. This feature will ensure that users receive relevant status updates without being overwhelmed by frequent notifications.
+
+2\. Accessibility for Visually Impaired Users
+---------------------------------------------
+
+Enhance accessibility features to make the app more user-friendly for visually impaired users. This may include support for screen readers, keyboard navigation shortcuts, and high-contrast themes.
+
+3\. Sync Notification Popup
+---------------------------
+
+Introduce a sync notification popup to provide users with real-time feedback on the synchronization process. This popup will inform users about the status of data synchronization and any errors encountered during the process.
+
+4\. Notification Clutter Improvements
+-------------------------------------
+
+Optimize notification handling to reduce clutter and improve the overall notification experience. This may involve grouping notifications, prioritizing critical alerts, and providing options for customizing notification settings.s
